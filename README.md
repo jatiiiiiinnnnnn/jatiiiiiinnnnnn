@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jatin Hans</h1>
-<h3 align="center">An enthusiastic developer. ;)</h3>
+<h3 align="center">Always solving a problem!</h3>
 <img align="right" width="400" src="https://i.gifer.com/8fMR.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatiiiiiinnnnnn&label=Profile%20views&color=0e75b6&style=flat" alt="jatiiiiiinnnnnn" /> </p>
 
-- 🔭 I’m currently working on [SortifyAI](https://github.com/jatiiiiiinnnnnn/SortifyAI)
+- 🔭 I’m currently working on [WGreen](https://github.com/jatiiiiiinnnnnn/walmarthack)
 
-- 🌱 I’m currently learning **Flutter, Machine Learning**
+- 🌱 I’m currently learning **Neural networks**
 
 - 📫 How to reach me **reachout.jatinhans@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pWD88e-g0tsMxf7BqEYq-QU-Q8zQOL2E/view?usp=sharing](https://drive.google.com/file/d/1pWD88e-g0tsMxf7BqEYq-QU-Q8zQOL2E/view?usp=sharing)
+- 📄 Know about me [Portfolio](https://portfolio-jatiiiiiinnnnnns-projects.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
